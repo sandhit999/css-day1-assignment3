@@ -1,0 +1,26 @@
+.box{
+    padding: 30px;
+    margin: 114px 336px;
+    border: 1px solid lightgrey;
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+}
+p{
+    color: grey;
+}
+img{
+    border-radius: 20px;
+    width: 100%;
+}
+.btn{
+    background: white;
+    font-size: 16px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: blue;
+}
+.text{
+    margin-left: 12px;
+}
